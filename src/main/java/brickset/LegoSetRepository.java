@@ -2,9 +2,6 @@ package brickset;
 
 import repository.Repository;
 
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
-
 /**
  * Represents a repository of {@code LegoSet} objects.
  */
